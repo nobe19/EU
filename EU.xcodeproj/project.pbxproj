@@ -13,6 +13,7 @@
 		7527D45625EB101F000384E1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7527D45425EB101F000384E1 /* Main.storyboard */; };
 		7527D45825EB1023000384E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7527D45725EB1023000384E1 /* Assets.xcassets */; };
 		7527D45B25EB1023000384E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7527D45925EB1023000384E1 /* LaunchScreen.storyboard */; };
+		7527D46825EC1E89000384E1 /* DetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7527D46725EC1E89000384E1 /* DetailTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7527D45725EB1023000384E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7527D45A25EB1023000384E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7527D45C25EB1023000384E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7527D46725EC1E89000384E1 /* DetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7527D44E25EB101F000384E1 /* AppDelegate.swift */,
 				7527D45025EB101F000384E1 /* SceneDelegate.swift */,
 				7527D45225EB101F000384E1 /* ViewController.swift */,
+				7527D46725EC1E89000384E1 /* DetailTableViewController.swift */,
 				7527D45425EB101F000384E1 /* Main.storyboard */,
 				7527D45725EB1023000384E1 /* Assets.xcassets */,
 				7527D45925EB1023000384E1 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7527D46825EC1E89000384E1 /* DetailTableViewController.swift in Sources */,
 				7527D45325EB101F000384E1 /* ViewController.swift in Sources */,
 				7527D44F25EB101F000384E1 /* AppDelegate.swift in Sources */,
 				7527D45125EB101F000384E1 /* SceneDelegate.swift in Sources */,
